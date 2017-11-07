@@ -23,7 +23,7 @@ The application uses a back-off model which first checks the higher n data set f
 
 The application can be found here: https://mikekeyes.shinyapps.io/capstone_project/ . It is very straightforward to use, simply type text in the box and the next word suggestions will appear to the right. 
 
-![Application Screenshot](https://github.com/mikekeyes/coursera_capstone/screenshot.png "Application Screenshot")
+![Application Screenshot](https://github.com/mikekeyes/coursera_capstone/blob/master/data/screenshot.png?raw=true "Application Screenshot")
 
 
 
